@@ -1,0 +1,7 @@
+# Project exclude paths
+/angularjs2/angular-quickstart/app/app.component.js
+/angularjs2/angular-quickstart/app/app.component.js.map
+/angularjs2/angular-quickstart/app/app.module.js
+/angularjs2/angular-quickstart/app/app.module.js.map
+/angularjs2/angular-quickstart/app/main.js
+/angularjs2/angular-quickstart/app/main.js.map
